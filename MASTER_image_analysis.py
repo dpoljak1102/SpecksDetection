@@ -28,11 +28,12 @@ def Counter(image):
 
 
 #%%
-images_path= "C:/Users/Deni/Desktop/workOrqa/zadatak3/Specks test/Clean/"
+images_path= "C:/Users/Deni/Desktop/workOrqa/zadatak3/Specks test/Dirty/"
 
 
 CreateFolders()
 
+#%%
 file_report = open(os.path.join(os.path.abspath(os.getcwd()),"Report_speck_stains.txt"),"w+")
 for index, image in enumerate(os.listdir(images_path)):
     if image.endswith('.png'):
@@ -46,7 +47,7 @@ for index, image in enumerate(os.listdir(images_path)):
         #def __init__(self, image_name, image_extension, number_speck, number_stains, time):
         
         image_report = Report(image_name, image_extension, number_speck, 0, time)
-        image_report.ImageReport(result_image)
+        #image_report.ImageReportSpeck(result_image)
         
         print("File {}  Time : {} Status: {}".format(index+1, time, image_report.Status()))
         

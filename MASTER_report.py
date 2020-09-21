@@ -13,9 +13,12 @@ def CreateFolders():
     #Create folder witn directory_name if not exists
     if not os.path.exists(directory_name):
         try:
-            subfolder_names = ["Dirty", "Clean"]
+            subfolder_names = ["Speck", "Stains"]
             for subfolder_name in subfolder_names:
+                created_path = os.path.join(directory_name, subfolder_name)
                 os.makedirs(os.path.join(directory_name, subfolder_name))
+                os.makedirs(os.path.join(created_path, "Clean"))
+                os.makedirs(os.path.join(created_path, "Dirty"))
         except :
             raise Exception("Something went wrong with creating directory")
         finally:
@@ -28,9 +31,12 @@ def CreateFolders():
             raise Exception("Something went wrong with creating directory")
         finally:
             print("Directory", directory_name, "removed, and created new one")
-            subfolder_names = ["Dirty", "Clean"]
+            subfolder_names = ["Speck", "Stains"]
             for subfolder_name in subfolder_names:
+                created_path = os.path.join(directory_name, subfolder_name)
                 os.makedirs(os.path.join(directory_name, subfolder_name))
+                os.makedirs(os.path.join(created_path, "Clean"))
+                os.makedirs(os.path.join(created_path, "Dirty"))
 
 
 """
@@ -59,10 +65,32 @@ class Report(object):
     def WriteReport(self):
         report = "Image name: '{}'\nImage extension: '{}'\nSpeck detected: {}\nStains detected: {}\nTime: {}\nStatus: '{}'\n\n".format(self.image_name, self.image_extension, self.number_speck, self.number_stains, self.time, self.status)
         return report
+    
 #TODO remove ext PNG becouse cv2 knows ext...
-    def ImageReport(self, result_image):
+    def ImageReportSpeck(self, result_image):
         path = os.path.abspath(os.getcwd())
         if(self.status != "Dirty"):
-            cv2.imwrite("{}/ImageResults/Clean/Report_{}.png".format(path, self.image_name), result_image)
+            cv2.imwrite("{}/ImageResults/Speck/Clean/ReportSpeck_{}.png".format(path, self.image_name), result_image)
         else:
-            cv2.imwrite("{}/ImageResults/Dirty/Report_{}.png".format(path, self.image_name), result_image)
+            cv2.imwrite("{}/ImageResults/Speck/Dirty/ReportSpeck_{}.png".format(path, self.image_name), result_image)
+            
+    def ImageReportStains(self, result_image):
+        path = os.path.abspath(os.getcwd())
+        if(self.status != "Dirty"):
+            cv2.imwrite("{}/ImageResults/Stains/Clean/ReportStains_{}.png".format(path, self.image_name), result_image)
+        else:
+            cv2.imwrite("{}/ImageResults/Stains/Dirty/ReportStains_{}.png".format(path, self.image_name), result_image)         
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
