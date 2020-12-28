@@ -2,251 +2,251 @@ Image name: '0_white_OE1945L014'
 Image extension: '.png'
 Speck detected: 7
 Stains detected: 0
-Time: 1.1001
+Time: 1.5755
 Status: 'Dirty'
 
 Image name: '0_white_OE1945L016'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0742
+Time: 1.1496
 Status: 'Dirty'
 
 Image name: '0_white_OE1945L025'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0673
+Time: 1.0945
 Status: 'Dirty'
 
 Image name: '0_white_OE1945L036'
 Image extension: '.png'
 Speck detected: 0
 Stains detected: 0
-Time: 1.0746
+Time: 1.1031
 Status: 'Clean'
 
 Image name: '0_white_OE1945L039'
 Image extension: '.png'
 Speck detected: 82
 Stains detected: 0
-Time: 1.076
+Time: 1.1498
 Status: 'Dirty'
 
 Image name: '0_white_OE1945L043'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0723
+Time: 1.3171
 Status: 'Dirty'
 
 Image name: '0_white_OE1945L046'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0737
+Time: 1.2899
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R018'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0664
+Time: 1.1951
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R027'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0706
+Time: 1.197
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R032'
 Image extension: '.png'
 Speck detected: 12
 Stains detected: 0
-Time: 1.08
+Time: 1.2261
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R033'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0801
+Time: 1.1669
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R040'
 Image extension: '.png'
 Speck detected: 6
 Stains detected: 0
-Time: 1.0645
+Time: 1.4158
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R045'
 Image extension: '.png'
 Speck detected: 5
 Stains detected: 0
-Time: 1.0838
+Time: 1.2239
 Status: 'Dirty'
 
 Image name: '0_white_OE1945R046'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0726
+Time: 1.2426
 Status: 'Dirty'
 
 Image name: '0_white_OE1946L007'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0658
+Time: 1.2163
 Status: 'Dirty'
 
 Image name: '0_white_OE1946L011'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.087
+Time: 1.4038
 Status: 'Dirty'
 
 Image name: '0_white_OE1946L012'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0767
+Time: 1.2774
 Status: 'Dirty'
 
 Image name: '0_white_OE1946L046'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0783
+Time: 1.2263
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R002'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0781
+Time: 1.2208
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R004'
 Image extension: '.png'
 Speck detected: 9
 Stains detected: 0
-Time: 1.0608
+Time: 1.1901
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R005'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0771
+Time: 1.2152
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R007'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0769
+Time: 1.1674
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R008'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0719
+Time: 1.0887
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R012'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.1521
+Time: 1.1159
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R015'
 Image extension: '.png'
 Speck detected: 11
 Stains detected: 0
-Time: 1.1051
+Time: 1.1018
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R027'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.1454
+Time: 1.0906
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R034'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0837
+Time: 1.1088
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R035'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0769
+Time: 1.1078
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R036'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0769
+Time: 1.0946
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R042'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0726
+Time: 1.0986
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R043'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0764
+Time: 1.1963
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R044'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0745
+Time: 1.1272
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R049'
 Image extension: '.png'
 Speck detected: 2
 Stains detected: 0
-Time: 1.0751
+Time: 1.0919
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R055'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0722
+Time: 1.1313
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R056'
 Image extension: '.png'
 Speck detected: 1
 Stains detected: 0
-Time: 1.0735
+Time: 1.176
 Status: 'Dirty'
 
 Image name: '0_white_OE1946R057'
 Image extension: '.png'
 Speck detected: 3
 Stains detected: 0
-Time: 1.0705
+Time: 1.1775
 Status: 'Dirty'
 
